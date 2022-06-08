@@ -1,0 +1,19 @@
+#navbar_wrap{
+    height: 45px;
+    border-bottom: 1px solid cyan;
+    display: flex;
+    color: white;
+    padding-left: 1050px;
+    font-size: 15px;
+    gap: 10px;
+}
+
+#navbar_wrap>a{
+    padding-top: 10px;
+    width: 100px;
+}
+
+#navbar_wrap>a:hover{
+    color: cyan;
+    transform: rotate(3deg)
+}

@@ -1,0 +1,15 @@
+#products_mainwrap{
+    display: grid;
+    grid-template-columns: 250px 250px 250px 250px 250px;
+    gap:15px;
+}
+
+.single_productwrap{
+    /* border: 1px solid red; */
+}
+
+.prod_img{
+    width: 260px;
+    height: 300px;
+    border-radius: 5px;
+}
